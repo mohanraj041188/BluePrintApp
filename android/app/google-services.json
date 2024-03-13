@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79290775754",
+    "project_id": "billingsoftware-fbd20",
+    "storage_bucket": "billingsoftware-fbd20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79290775754:android:78ad793a56cdcb6cf01c33",
+        "android_client_info": {
+          "package_name": "com.mohan.pycafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHaS1oJa2jYJGC_8eNbJIEbY_p0JPie4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
